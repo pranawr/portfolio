@@ -1,16 +1,22 @@
 # Software Developer
 
 ## Education
-**Graduate** | Indian Institute of Technology, Roorkee (_July 2019 - May 2023_)
+**Graduate** 
+
+Indian Institute of Technology, Roorkee (_July 2019 - May 2023_)
 
 - B.Tech. in Computer Science and Engineering
 - CGPA: 8.610/10
 
-**Senior Secondary Education** | Gyan Jyoti Residential Public School, Patna (_April 2017 - May 2019_)
+**Senior Secondary Education** 
+
+Gyan Jyoti Residential Public School, Patna (_April 2017 - May 2019_)
 
 - CBSE, Percentage: 93.2%
 
-**Secondary Education** | Holy Faith International Public School, Patna (_May 2017_)
+**Secondary Education** 
+
+Holy Faith International Public School, Patna (_May 2017_)
 
 - CBSE, CGPA: 10.0/10
 
