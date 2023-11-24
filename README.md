@@ -91,7 +91,7 @@
 
 
 ## Awards and achievements
-- Won best B.Tech. project award among the graduating CSE'23 students at IIT Roorkee for SPLAL.
+- Received the best B.Tech. project award among the graduating students of Computer Science and Engineering of IIT Roorkee.
 - All India Rank - 488, KVPY, Govenment of India 2018 (among 100K students)
 - All India Rank - 1232, JEE Advanced 2019 (among 160K candidates).
 - All India Rank - 2098, JEE Mains 2019, (among 1.2M students)
