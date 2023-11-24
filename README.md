@@ -1,22 +1,16 @@
 # Software Developer
 
 ## Education
-**Graduate**
-
-Indian Institute of Technology, Roorkee (_July 2019 - May 2023_)
+**Graduate** | Indian Institute of Technology, Roorkee (_July 2019 - May 2023_)
 
 - B.Tech. in Computer Science and Engineering
 - CGPA: 8.610/10
 
-**Senior Secondary Education**
-
-Gyan Jyoti Residential Public School, Patna (_April 2017 - May 2019_)
+**Senior Secondary Education** | Gyan Jyoti Residential Public School, Patna (_April 2017 - May 2019_)
 
 - CBSE, Percentage: 93.2%
 
-**Secondary Education**
-
-Holy Faith International Public School, Patna (_May 2017_)
+**Secondary Education** | Holy Faith International Public School, Patna (_May 2017_)
 
 - CBSE, CGPA: 10.0/10
 
@@ -97,7 +91,7 @@ Holy Faith International Public School, Patna (_May 2017_)
 
 
 ## Awards and achievements
-- Won Best B.Tech. project award among the graduating CSE'23 students at IIT Roorkee for SPLAL.
+- Won best B.Tech. project award among the graduating CSE'23 students at IIT Roorkee for SPLAL.
 - All India Rank - 488, KVPY, Govenment of India 2018 (among 100K students)
 - All India Rank - 1232, JEE Advanced 2019 (among 160K candidates).
 - All India Rank - 2098, JEE Mains 2019, (among 1.2M students)
