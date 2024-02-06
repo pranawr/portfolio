@@ -23,7 +23,9 @@ Holy Faith International Public School, Patna (_May 2017_)
 
 ## Work Experience
 **SDE I @ Amazon, Bangalore, India (_July 2023 - Present_)**
-- Working as a part of ad-moderation team in Amazon Ads.
+- Working as a part of content moderation team in Amazon Ads.
+- Implemented an approach to segregate bulk ingestion of DSP ads from non bulk ingestion in moderation pipeline.
+- Resulted into reduction of the SLA breaches further leading to improved advertiser experience.
 
 **SDE Intern @ Amazon, Bangalore, India (_May 2022 - July 2022_)**
 - Worked as a part of billing team in Amazon Ads and contributed to core features of invoice orchestration service. 
